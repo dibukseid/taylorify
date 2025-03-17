@@ -1,0 +1,11 @@
+README.md
+setup.py
+taylorify/__init__.py
+taylorify/taylorify.py
+taylorify/utils.py
+taylorify.egg-info/PKG-INFO
+taylorify.egg-info/SOURCES.txt
+taylorify.egg-info/dependency_links.txt
+taylorify.egg-info/entry_points.txt
+taylorify.egg-info/requires.txt
+taylorify.egg-info/top_level.txt

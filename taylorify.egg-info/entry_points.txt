@@ -1,0 +1,3 @@
+[console_scripts]
+taylorify = taylorify.taylorify:replace_in_all_playlists
+
