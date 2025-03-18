@@ -20,8 +20,6 @@ def find_taylors_version(original_song_name, artist="Taylor Swift"):
             return track['id']
         
         #same with Red but specifically doesn't work for features 
-        if "taylor swift" in track_artists and album_name == "red (taylor's version)":
-            return track['id']
         
         # Ensure Taylor Swift is in the artist list (allowing for featured artists)
         if "taylor swift" in track_artists and "taylor's version" in track_name.lower():
